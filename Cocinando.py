@@ -1,1 +1,1 @@
-print ("Cómo cocinar un conflicto")
+print ("Cómo cocinar un conflicto!")
